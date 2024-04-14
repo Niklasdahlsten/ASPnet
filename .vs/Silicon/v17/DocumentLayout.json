@@ -1,0 +1,287 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Skoluppgifter\\ASP.NET\\Silicon\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{081693BE-25AD-4B02-887D-54E8032B4BA5}|WebAppASP\\WebAppASP.csproj|c:\\skoluppgifter\\asp.net\\silicon\\webappasp\\views\\partials\\sections\\_header.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{081693BE-25AD-4B02-887D-54E8032B4BA5}|WebAppASP\\WebAppASP.csproj|solutionrelative:webappasp\\views\\partials\\sections\\_header.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2397B4EF-8043-44A6-9D06-FDEA44B0D2A8}|Infrastructure\\Infrastructure.csproj|c:\\skoluppgifter\\asp.net\\silicon\\infrastructure\\contexts\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2397B4EF-8043-44A6-9D06-FDEA44B0D2A8}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\contexts\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{081693BE-25AD-4B02-887D-54E8032B4BA5}|WebAppASP\\WebAppASP.csproj|c:\\skoluppgifter\\asp.net\\silicon\\webappasp\\configurations\\servicesconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{081693BE-25AD-4B02-887D-54E8032B4BA5}|WebAppASP\\WebAppASP.csproj|solutionrelative:webappasp\\configurations\\servicesconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2397B4EF-8043-44A6-9D06-FDEA44B0D2A8}|Infrastructure\\Infrastructure.csproj|c:\\skoluppgifter\\asp.net\\silicon\\infrastructure\\entities\\userentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2397B4EF-8043-44A6-9D06-FDEA44B0D2A8}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\entities\\userentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2397B4EF-8043-44A6-9D06-FDEA44B0D2A8}|Infrastructure\\Infrastructure.csproj|c:\\skoluppgifter\\asp.net\\silicon\\infrastructure\\entities\\addressentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2397B4EF-8043-44A6-9D06-FDEA44B0D2A8}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\entities\\addressentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2397B4EF-8043-44A6-9D06-FDEA44B0D2A8}|Infrastructure\\Infrastructure.csproj|c:\\skoluppgifter\\asp.net\\silicon\\infrastructure\\models\\signupform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2397B4EF-8043-44A6-9D06-FDEA44B0D2A8}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\models\\signupform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{081693BE-25AD-4B02-887D-54E8032B4BA5}|WebAppASP\\WebAppASP.csproj|c:\\skoluppgifter\\asp.net\\silicon\\webappasp\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{081693BE-25AD-4B02-887D-54E8032B4BA5}|WebAppASP\\WebAppASP.csproj|solutionrelative:webappasp\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2397B4EF-8043-44A6-9D06-FDEA44B0D2A8}|Infrastructure\\Infrastructure.csproj|c:\\skoluppgifter\\asp.net\\silicon\\infrastructure\\services\\accountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2397B4EF-8043-44A6-9D06-FDEA44B0D2A8}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\services\\accountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2397B4EF-8043-44A6-9D06-FDEA44B0D2A8}|Infrastructure\\Infrastructure.csproj|c:\\skoluppgifter\\asp.net\\silicon\\infrastructure\\contexts\\applicationcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2397B4EF-8043-44A6-9D06-FDEA44B0D2A8}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\contexts\\applicationcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2397B4EF-8043-44A6-9D06-FDEA44B0D2A8}|Infrastructure\\Infrastructure.csproj|c:\\skoluppgifter\\asp.net\\silicon\\infrastructure\\factories\\userfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2397B4EF-8043-44A6-9D06-FDEA44B0D2A8}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\factories\\userfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{081693BE-25AD-4B02-887D-54E8032B4BA5}|WebAppASP\\WebAppASP.csproj|c:\\skoluppgifter\\asp.net\\silicon\\webappasp\\models\\accountdetailsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{081693BE-25AD-4B02-887D-54E8032B4BA5}|WebAppASP\\WebAppASP.csproj|solutionrelative:webappasp\\models\\accountdetailsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{081693BE-25AD-4B02-887D-54E8032B4BA5}|WebAppASP\\WebAppASP.csproj|c:\\skoluppgifter\\asp.net\\silicon\\webappasp\\views\\account\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{081693BE-25AD-4B02-887D-54E8032B4BA5}|WebAppASP\\WebAppASP.csproj|solutionrelative:webappasp\\views\\account\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{081693BE-25AD-4B02-887D-54E8032B4BA5}|WebAppASP\\WebAppASP.csproj|c:\\skoluppgifter\\asp.net\\silicon\\webappasp\\views\\shared\\_accountlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{081693BE-25AD-4B02-887D-54E8032B4BA5}|WebAppASP\\WebAppASP.csproj|solutionrelative:webappasp\\views\\shared\\_accountlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{081693BE-25AD-4B02-887D-54E8032B4BA5}|WebAppASP\\WebAppASP.csproj|c:\\skoluppgifter\\asp.net\\silicon\\webappasp\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{081693BE-25AD-4B02-887D-54E8032B4BA5}|WebAppASP\\WebAppASP.csproj|solutionrelative:webappasp\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{081693BE-25AD-4B02-887D-54E8032B4BA5}|WebAppASP\\WebAppASP.csproj|c:\\skoluppgifter\\asp.net\\silicon\\webappasp\\views\\account\\_accountprofile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{081693BE-25AD-4B02-887D-54E8032B4BA5}|WebAppASP\\WebAppASP.csproj|solutionrelative:webappasp\\views\\account\\_accountprofile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2397B4EF-8043-44A6-9D06-FDEA44B0D2A8}|Infrastructure\\Infrastructure.csproj|c:\\skoluppgifter\\asp.net\\silicon\\infrastructure\\models\\accountaddressinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2397B4EF-8043-44A6-9D06-FDEA44B0D2A8}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\models\\accountaddressinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DataContext.cs",
+              "DocumentMoniker": "C:\\Skoluppgifter\\ASP.NET\\Silicon\\Infrastructure\\Contexts\\DataContext.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Contexts\\DataContext.cs",
+              "ToolTip": "C:\\Skoluppgifter\\ASP.NET\\Silicon\\Infrastructure\\Contexts\\DataContext.cs",
+              "RelativeToolTip": "Infrastructure\\Contexts\\DataContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T22:59:56.164Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserEntity.cs",
+              "DocumentMoniker": "C:\\Skoluppgifter\\ASP.NET\\Silicon\\Infrastructure\\Entities\\UserEntity.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Entities\\UserEntity.cs",
+              "ToolTip": "C:\\Skoluppgifter\\ASP.NET\\Silicon\\Infrastructure\\Entities\\UserEntity.cs",
+              "RelativeToolTip": "Infrastructure\\Entities\\UserEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T22:54:25.188Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AddressEntity.cs",
+              "DocumentMoniker": "C:\\Skoluppgifter\\ASP.NET\\Silicon\\Infrastructure\\Entities\\AddressEntity.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Entities\\AddressEntity.cs",
+              "ToolTip": "C:\\Skoluppgifter\\ASP.NET\\Silicon\\Infrastructure\\Entities\\AddressEntity.cs",
+              "RelativeToolTip": "Infrastructure\\Entities\\AddressEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T22:54:14.407Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SignUpform.cs",
+              "DocumentMoniker": "C:\\Skoluppgifter\\ASP.NET\\Silicon\\Infrastructure\\Models\\SignUpform.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Models\\SignUpform.cs",
+              "ToolTip": "C:\\Skoluppgifter\\ASP.NET\\Silicon\\Infrastructure\\Models\\SignUpform.cs",
+              "RelativeToolTip": "Infrastructure\\Models\\SignUpform.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T22:48:49.329Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ServicesConfiguration.cs",
+              "DocumentMoniker": "C:\\Skoluppgifter\\ASP.NET\\Silicon\\WebAppASP\\Configurations\\ServicesConfiguration.cs",
+              "RelativeDocumentMoniker": "WebAppASP\\Configurations\\ServicesConfiguration.cs",
+              "ToolTip": "C:\\Skoluppgifter\\ASP.NET\\Silicon\\WebAppASP\\Configurations\\ServicesConfiguration.cs",
+              "RelativeToolTip": "WebAppASP\\Configurations\\ServicesConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAYAAABZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T22:47:50.939Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Header.cshtml",
+              "DocumentMoniker": "C:\\Skoluppgifter\\ASP.NET\\Silicon\\WebAppASP\\Views\\Partials\\Sections\\_Header.cshtml",
+              "RelativeDocumentMoniker": "WebAppASP\\Views\\Partials\\Sections\\_Header.cshtml",
+              "ToolTip": "C:\\Skoluppgifter\\ASP.NET\\Silicon\\WebAppASP\\Views\\Partials\\Sections\\_Header.cshtml",
+              "RelativeToolTip": "WebAppASP\\Views\\Partials\\Sections\\_Header.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAAIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-09T22:46:48.21Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Skoluppgifter\\ASP.NET\\Silicon\\WebAppASP\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "WebAppASP\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Skoluppgifter\\ASP.NET\\Silicon\\WebAppASP\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "WebAppASP\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAjwDEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T22:18:27.971Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UserFactory.cs",
+              "DocumentMoniker": "C:\\Skoluppgifter\\ASP.NET\\Silicon\\Infrastructure\\Factories\\UserFactory.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Factories\\UserFactory.cs",
+              "ToolTip": "C:\\Skoluppgifter\\ASP.NET\\Silicon\\Infrastructure\\Factories\\UserFactory.cs",
+              "RelativeToolTip": "Infrastructure\\Factories\\UserFactory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACkAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T22:11:55.155Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AccountService.cs",
+              "DocumentMoniker": "C:\\Skoluppgifter\\ASP.NET\\Silicon\\Infrastructure\\Services\\AccountService.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Services\\AccountService.cs",
+              "ToolTip": "C:\\Skoluppgifter\\ASP.NET\\Silicon\\Infrastructure\\Services\\AccountService.cs",
+              "RelativeToolTip": "Infrastructure\\Services\\AccountService.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAjwDQAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T18:20:21.36Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Skoluppgifter\\ASP.NET\\Silicon\\WebAppASP\\Models\\User.cs",
+              "RelativeDocumentMoniker": "WebAppASP\\Models\\User.cs",
+              "ToolTip": "C:\\Skoluppgifter\\ASP.NET\\Silicon\\WebAppASP\\Models\\User.cs",
+              "RelativeToolTip": "WebAppASP\\Models\\User.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAxwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T22:15:42.523Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ApplicationContext.cs",
+              "DocumentMoniker": "C:\\Skoluppgifter\\ASP.NET\\Silicon\\Infrastructure\\Contexts\\ApplicationContext.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Contexts\\ApplicationContext.cs",
+              "ToolTip": "C:\\Skoluppgifter\\ASP.NET\\Silicon\\Infrastructure\\Contexts\\ApplicationContext.cs",
+              "RelativeToolTip": "Infrastructure\\Contexts\\ApplicationContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T22:03:29.266Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AccountDetailsViewModel.cs",
+              "DocumentMoniker": "C:\\Skoluppgifter\\ASP.NET\\Silicon\\WebAppASP\\Models\\AccountDetailsViewModel.cs",
+              "RelativeDocumentMoniker": "WebAppASP\\Models\\AccountDetailsViewModel.cs",
+              "ToolTip": "C:\\Skoluppgifter\\ASP.NET\\Silicon\\WebAppASP\\Models\\AccountDetailsViewModel.cs",
+              "RelativeToolTip": "WebAppASP\\Models\\AccountDetailsViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T18:12:11.347Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Skoluppgifter\\ASP.NET\\Silicon\\WebAppASP\\Views\\Account\\Details.cshtml",
+              "RelativeDocumentMoniker": "WebAppASP\\Views\\Account\\Details.cshtml",
+              "ToolTip": "C:\\Skoluppgifter\\ASP.NET\\Silicon\\WebAppASP\\Views\\Account\\Details.cshtml",
+              "RelativeToolTip": "WebAppASP\\Views\\Account\\Details.cshtml",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAACgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-09T22:19:34.848Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "_AccountLayout.cshtml",
+              "DocumentMoniker": "C:\\Skoluppgifter\\ASP.NET\\Silicon\\WebAppASP\\Views\\Shared\\_AccountLayout.cshtml",
+              "RelativeDocumentMoniker": "WebAppASP\\Views\\Shared\\_AccountLayout.cshtml",
+              "ToolTip": "C:\\Skoluppgifter\\ASP.NET\\Silicon\\WebAppASP\\Views\\Shared\\_AccountLayout.cshtml",
+              "RelativeToolTip": "WebAppASP\\Views\\Shared\\_AccountLayout.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAYwCcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-09T18:29:40.802Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AccountAddressInfo.cs",
+              "DocumentMoniker": "C:\\Skoluppgifter\\ASP.NET\\Silicon\\Infrastructure\\Models\\AccountAddressInfo.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Models\\AccountAddressInfo.cs",
+              "ToolTip": "C:\\Skoluppgifter\\ASP.NET\\Silicon\\Infrastructure\\Models\\AccountAddressInfo.cs",
+              "RelativeToolTip": "Infrastructure\\Models\\AccountAddressInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T18:16:55.882Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "_AccountProfile.cshtml",
+              "DocumentMoniker": "C:\\Skoluppgifter\\ASP.NET\\Silicon\\WebAppASP\\Views\\Account\\_AccountProfile.cshtml",
+              "RelativeDocumentMoniker": "WebAppASP\\Views\\Account\\_AccountProfile.cshtml",
+              "ToolTip": "C:\\Skoluppgifter\\ASP.NET\\Silicon\\WebAppASP\\Views\\Account\\_AccountProfile.cshtml",
+              "RelativeToolTip": "WebAppASP\\Views\\Account\\_AccountProfile.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-09T12:43:42.005Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

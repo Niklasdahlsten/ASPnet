@@ -1,0 +1,42 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link href="~/css/scss/site.css" rel="stylesheet" asp-append-version="true" />
+    <title>
+        @(!string.IsNullOrEmpty(ViewData["Title"]?.ToString())
+            ? ViewData["Title"] + " | Silicon" : "Silicon")
+    </title>
+</head>
+<body>
+    <div class="wrapper">
+        <partial name="~/Views/Partials/Sections/_Header.cshtml" />
+
+        <section class="account">
+            <div class="container">
+                <aside>
+                    <partial name="~/Views/Account/_AccountProfile.cshtml" />
+
+                    </partial>
+                    <nav class="account-nav">
+                        <a class="button btn-nav active" asp-action="Details" asp-asp-controller="Account"><i class="fa-regular fa-cog"></i>Account Details</a>
+                        <a class="button btn-nav" asp-action="Details" asp-asp-controller="Auth"><i class="fa-regular fa-arrow-right-from-bracket"></i>Sign Out</a>
+
+                    </nav>
+                </aside>
+                <main>
+                    @RenderBody()
+                </main>
+            </div>
+        </section>
+
+        <partial name="~/Views/Partials/Sections/_Footer.cshtml" />
+    </div>
+
+    <script src="https://kit.fontawesome.com/a041cc045c.js" asp-append-version="true" crossorigin="anonymous"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+
+
+</body>
+</html>
